@@ -1,5 +1,5 @@
 using System;
-
+//никитин лох
 namespace n
 {
     class Program
